@@ -1,0 +1,12 @@
+ul{
+    list-style-type: none;
+}
+body{
+    background-image: url("./resources/logo.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    min-height: 100vh;
+    
+}
+
